@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "policy_files": 13,
+    "structured_subsections": 151
+  },
+  "validation_priorities": [
+    "Transfer credit and recognition",
+    "Grade scale and GPA calculations",
+    "Academic standing and dismissal",
+    "Academic integrity procedures and consequences",
+    "Appeal deadlines and decision authorities",
+    "Graduation and residency requirements",
+    "Professional readiness and suitability policies",
+    "Degree-specific admissions and reinstatement rules"
+  ],
+  "known_extraction_risks": [
+    "Some source headings are ordinary Word paragraphs rather than semantic HTML headings.",
+    "Definitions, procedures, and consequences may span several nested heading levels.",
+    "Tables require comparison against the PDF or DOCX for merged-cell fidelity.",
+    "The Bachelor of Social Work section contains several visually formatted headings that are not encoded as HTML headings."
+  ]
+}

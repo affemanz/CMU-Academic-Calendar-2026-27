@@ -1,0 +1,82 @@
+{
+  "summary": {
+    "content_files": 15,
+    "directory_categories": 12,
+    "directory_records": 228,
+    "accreditation_relationship_records": 9
+  },
+  "directory_categories": [
+    {
+      "category": "Faculty",
+      "record_count": 51,
+      "source_file": "70-Institutional-Information/Faculty-and-Staff/Faculty.md"
+    },
+    {
+      "category": "Directors and Chairs",
+      "record_count": 17,
+      "source_file": "70-Institutional-Information/Faculty-and-Staff/Directors-and-Chairs.md"
+    },
+    {
+      "category": "Adjunct Faculty",
+      "record_count": 11,
+      "source_file": "70-Institutional-Information/Faculty-and-Staff/Adjunct-Faculty.md"
+    },
+    {
+      "category": "Faculty Fellows",
+      "record_count": 3,
+      "source_file": "70-Institutional-Information/Faculty-and-Staff/Faculty-Fellows.md"
+    },
+    {
+      "category": "Senior Scholars",
+      "record_count": 3,
+      "source_file": "70-Institutional-Information/Faculty-and-Staff/Senior-Scholars.md"
+    },
+    {
+      "category": "President’s Office",
+      "record_count": 7,
+      "source_file": "70-Institutional-Information/Faculty-and-Staff/President-s-Office.md"
+    },
+    {
+      "category": "Academic Office and Library",
+      "record_count": 22,
+      "source_file": "70-Institutional-Information/Faculty-and-Staff/Academic-Office-and-Library.md"
+    },
+    {
+      "category": "Student Life",
+      "record_count": 14,
+      "source_file": "70-Institutional-Information/Faculty-and-Staff/Student-Life.md"
+    },
+    {
+      "category": "External",
+      "record_count": 28,
+      "source_file": "70-Institutional-Information/Faculty-and-Staff/External.md"
+    },
+    {
+      "category": "Finance, Food Services, and Facilities",
+      "record_count": 44,
+      "source_file": "70-Institutional-Information/Faculty-and-Staff/Finance-Food-Services-and-Facilities.md"
+    },
+    {
+      "category": "Institutes",
+      "record_count": 3,
+      "source_file": "70-Institutional-Information/Faculty-and-Staff/Institutes.md"
+    },
+    {
+      "category": "Emeriti",
+      "record_count": 25,
+      "source_file": "70-Institutional-Information/Faculty-and-Staff/Emeriti.md"
+    }
+  ],
+  "validation_priorities": [
+    "Accreditation and membership names",
+    "Degree and professional recognition statements",
+    "Current faculty and staff names and titles",
+    "Academic credentials and institutional affiliations",
+    "Emeritus and senior scholar listings"
+  ],
+  "known_extraction_risks": [
+    "Personnel information can change after calendar publication.",
+    "Names, credentials, and titles were retained as full source entries; display_name is a convenience field parsed from text before the first comma.",
+    "An empty HTML heading appears between accreditation content and Faculty and Staff and was not treated as a substantive section."
+  ]
+}

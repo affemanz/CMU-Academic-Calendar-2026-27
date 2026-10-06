@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "content_files": 7,
+    "structured_subsections": 29
+  },
+  "validation_priorities": [
+    "Award amounts and annual maximums",
+    "Application deadlines",
+    "Credit-hour eligibility requirements",
+    "Minimum GPA and renewal requirements",
+    "Deferral and disbursement rules",
+    "Eligibility conditions for grants and subsidies",
+    "Government student-aid wording and links"
+  ],
+  "known_extraction_risks": [
+    "Many individual award names are visually formatted with bold text rather than semantic HTML headings.",
+    "Monetary values, deadlines, and renewal conditions should be cross-checked against the PDF or approved DOCX.",
+    "Availability and award amounts may change outside the annual calendar publication cycle."
+  ]
+}

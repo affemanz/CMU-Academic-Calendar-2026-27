@@ -1,0 +1,232 @@
+{
+  "package_name": "CMU Academic Calendar 2026-27 Course Descriptions",
+  "package_version": "0.4",
+  "created": "2026-09-29",
+  "source": {
+    "filename": "2026-27 Academic Calendar.Undergraduate.htm",
+    "sha256": "b799c4fb74003720ebe8307487f242c0e42a7743c2e5662d26b169bbcdba1548"
+  },
+  "authority_status": "official_transcription",
+  "validation_status": "pending",
+  "subject_file_count": 31,
+  "course_record_count": 723,
+  "subjects": [
+    {
+      "subject_code": "ACWR",
+      "subject_title": "Academic Writing",
+      "file": "40-Course-Descriptions/ACWR-Academic-Writing.md",
+      "course_count": 1,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-ACWR"
+    },
+    {
+      "subject_code": "ANTH",
+      "subject_title": "Anthropology",
+      "file": "40-Course-Descriptions/ANTH-Anthropology.md",
+      "course_count": 4,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-ANTH"
+    },
+    {
+      "subject_code": "BTS",
+      "subject_title": "Biblical and Theological Studies",
+      "file": "40-Course-Descriptions/BTS-Biblical-and-Theological-Studies.md",
+      "course_count": 100,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-BTS"
+    },
+    {
+      "subject_code": "BIOL",
+      "subject_title": "Biology",
+      "file": "40-Course-Descriptions/BIOL-Biology.md",
+      "course_count": 28,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-BIOL"
+    },
+    {
+      "subject_code": "BUSI",
+      "subject_title": "Business and Organizational Administration",
+      "file": "40-Course-Descriptions/BUSI-Business-and-Organizational-Administration.md",
+      "course_count": 46,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-BUSI"
+    },
+    {
+      "subject_code": "CHEM",
+      "subject_title": "Chemistry",
+      "file": "40-Course-Descriptions/CHEM-Chemistry.md",
+      "course_count": 6,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-CHEM"
+    },
+    {
+      "subject_code": "COMM",
+      "subject_title": "Communications and Media",
+      "file": "40-Course-Descriptions/COMM-Communications-and-Media.md",
+      "course_count": 27,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-COMM"
+    },
+    {
+      "subject_code": "COMP",
+      "subject_title": "Computer Science",
+      "file": "40-Course-Descriptions/COMP-Computer-Science.md",
+      "course_count": 6,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-COMP"
+    },
+    {
+      "subject_code": "ECON",
+      "subject_title": "Economics",
+      "file": "40-Course-Descriptions/ECON-Economics.md",
+      "course_count": 14,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-ECON"
+    },
+    {
+      "subject_code": "EDUC",
+      "subject_title": "Education",
+      "file": "40-Course-Descriptions/EDUC-Education.md",
+      "course_count": 35,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-EDUC"
+    },
+    {
+      "subject_code": "ENGL",
+      "subject_title": "English",
+      "file": "40-Course-Descriptions/ENGL-English.md",
+      "course_count": 49,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-ENGL"
+    },
+    {
+      "subject_code": "ENVS",
+      "subject_title": "Environmental Studies",
+      "file": "40-Course-Descriptions/ENVS-Environmental-Studies.md",
+      "course_count": 7,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-ENVS"
+    },
+    {
+      "subject_code": "GEOG",
+      "subject_title": "Geography",
+      "file": "40-Course-Descriptions/GEOG-Geography.md",
+      "course_count": 11,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-GEOG"
+    },
+    {
+      "subject_code": "HIST",
+      "subject_title": "History",
+      "file": "40-Course-Descriptions/HIST-History.md",
+      "course_count": 36,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-HIST"
+    },
+    {
+      "subject_code": "INDS",
+      "subject_title": "Indigenous Studies",
+      "file": "40-Course-Descriptions/INDS-Indigenous-Studies.md",
+      "course_count": 3,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-INDS"
+    },
+    {
+      "subject_code": "INTD",
+      "subject_title": "Interdisciplinary Studies",
+      "file": "40-Course-Descriptions/INTD-Interdisciplinary-Studies.md",
+      "course_count": 1,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-INTD"
+    },
+    {
+      "subject_code": "IDS",
+      "subject_title": "International Development Studies",
+      "file": "40-Course-Descriptions/IDS-International-Development-Studies.md",
+      "course_count": 25,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-IDS"
+    },
+    {
+      "subject_code": "LANG",
+      "subject_title": "Languages",
+      "file": "40-Course-Descriptions/LANG-Languages.md",
+      "course_count": 20,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-LANG"
+    },
+    {
+      "subject_code": "MATH",
+      "subject_title": "Mathematics",
+      "file": "40-Course-Descriptions/MATH-Mathematics.md",
+      "course_count": 24,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-MATH"
+    },
+    {
+      "subject_code": "MUSC",
+      "subject_title": "Music",
+      "file": "40-Course-Descriptions/MUSC-Music.md",
+      "course_count": 65,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-MUSC"
+    },
+    {
+      "subject_code": "MUTH",
+      "subject_title": "Music Therapy",
+      "file": "40-Course-Descriptions/MUTH-Music-Therapy.md",
+      "course_count": 14,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-MUTH"
+    },
+    {
+      "subject_code": "PCTS",
+      "subject_title": "Peace and Conflict Transformation Studies",
+      "file": "40-Course-Descriptions/PCTS-Peace-and-Conflict-Transformation-Studies.md",
+      "course_count": 33,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-PCTS"
+    },
+    {
+      "subject_code": "PHIL",
+      "subject_title": "Philosophy",
+      "file": "40-Course-Descriptions/PHIL-Philosophy.md",
+      "course_count": 29,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-PHIL"
+    },
+    {
+      "subject_code": "PHED",
+      "subject_title": "Physical Education",
+      "file": "40-Course-Descriptions/PHED-Physical-Education.md",
+      "course_count": 3,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-PHED"
+    },
+    {
+      "subject_code": "PHYS",
+      "subject_title": "Physics",
+      "file": "40-Course-Descriptions/PHYS-Physics.md",
+      "course_count": 4,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-PHYS"
+    },
+    {
+      "subject_code": "POLS",
+      "subject_title": "Political Studies",
+      "file": "40-Course-Descriptions/POLS-Political-Studies.md",
+      "course_count": 26,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-POLS"
+    },
+    {
+      "subject_code": "PSYC",
+      "subject_title": "Psychology",
+      "file": "40-Course-Descriptions/PSYC-Psychology.md",
+      "course_count": 41,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-PSYC"
+    },
+    {
+      "subject_code": "RLGN",
+      "subject_title": "Religion",
+      "file": "40-Course-Descriptions/RLGN-Religion.md",
+      "course_count": 4,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-RLGN"
+    },
+    {
+      "subject_code": "SWRK",
+      "subject_title": "Social Work",
+      "file": "40-Course-Descriptions/SWRK-Social-Work.md",
+      "course_count": 36,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-SWRK"
+    },
+    {
+      "subject_code": "SOCI",
+      "subject_title": "Sociology",
+      "file": "40-Course-Descriptions/SOCI-Sociology.md",
+      "course_count": 20,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-SOCI"
+    },
+    {
+      "subject_code": "WIL",
+      "subject_title": "Work-Integrated Learning",
+      "file": "40-Course-Descriptions/WIL-Work-Integrated-Learning.md",
+      "course_count": 5,
+      "section_id": "CMU-UG-2026-27-COURSE-SUBJECT-WIL"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "package_name": "CMU Academic Calendar 2026-27 Institutional Information",
+  "package_version": "0.8",
+  "created": "2026-09-29",
+  "source": {
+    "filename": "2026-27 Academic Calendar.Undergraduate.htm",
+    "sha256": "b799c4fb74003720ebe8307487f242c0e42a7743c2e5662d26b169bbcdba1548"
+  },
+  "authority_status": "official_transcription",
+  "validation_status": "pending",
+  "content_file_count": 15,
+  "directory_record_count": 228,
+  "accreditation_record_count": 9,
+  "files": [
+    {
+      "title": "Information about Canadian Mennonite University",
+      "file": "70-Institutional-Information/00-Institutional-Information-Overview.md",
+      "section_id": "CMU-UG-2026-27-INST-OVERVIEW",
+      "characters": 837
+    },
+    {
+      "title": "Accreditation and Relationships with Other Universities",
+      "file": "70-Institutional-Information/Accreditation-and-Relationships.md",
+      "section_id": "CMU-UG-2026-27-INST-ACCREDITATION",
+      "characters": 3926
+    },
+    {
+      "title": "Faculty and Staff",
+      "file": "70-Institutional-Information/Faculty-and-Staff.md",
+      "section_id": "CMU-UG-2026-27-INST-PEOPLE",
+      "characters": 18458
+    },
+    {
+      "title": "Faculty",
+      "file": "70-Institutional-Information/Faculty-and-Staff/Faculty.md",
+      "section_id": "CMU-UG-2026-27-INST-PEOPLE-FACULTY",
+      "characters": 7039
+    },
+    {
+      "title": "Directors and Chairs",
+      "file": "70-Institutional-Information/Faculty-and-Staff/Directors-and-Chairs.md",
+      "section_id": "CMU-UG-2026-27-INST-PEOPLE-DIRECTORS-AND-CHAIRS",
+      "characters": 2191
+    },
+    {
+      "title": "Adjunct Faculty",
+      "file": "70-Institutional-Information/Faculty-and-Staff/Adjunct-Faculty.md",
+      "section_id": "CMU-UG-2026-27-INST-PEOPLE-ADJUNCT-FACULTY",
+      "characters": 1493
+    },
+    {
+      "title": "Faculty Fellows",
+      "file": "70-Institutional-Information/Faculty-and-Staff/Faculty-Fellows.md",
+      "section_id": "CMU-UG-2026-27-INST-PEOPLE-FACULTY-FELLOWS",
+      "characters": 1010
+    },
+    {
+      "title": "Senior Scholars",
+      "file": "70-Institutional-Information/Faculty-and-Staff/Senior-Scholars.md",
+      "section_id": "CMU-UG-2026-27-INST-PEOPLE-SENIOR-SCHOLARS",
+      "characters": 1042
+    },
+    {
+      "title": "President’s Office",
+      "file": "70-Institutional-Information/Faculty-and-Staff/President-s-Office.md",
+      "section_id": "CMU-UG-2026-27-INST-PEOPLE-PRESIDENT-S-OFFICE",
+      "characters": 1192
+    },
+    {
+      "title": "Academic Office and Library",
+      "file": "70-Institutional-Information/Faculty-and-Staff/Academic-Office-and-Library.md",
+      "section_id": "CMU-UG-2026-27-INST-PEOPLE-ACADEMIC-OFFICE-AND-LIBRARY",
+      "characters": 2383
+    },
+    {
+      "title": "Student Life",
+      "file": "70-Institutional-Information/Faculty-and-Staff/Student-Life.md",
+      "section_id": "CMU-UG-2026-27-INST-PEOPLE-STUDENT-LIFE",
+      "characters": 1687
+    },
+    {
+      "title": "External",
+      "file": "70-Institutional-Information/Faculty-and-Staff/External.md",
+      "section_id": "CMU-UG-2026-27-INST-PEOPLE-EXTERNAL",
+      "characters": 2408
+    },
+    {
+      "title": "Finance, Food Services, and Facilities",
+      "file": "70-Institutional-Information/Faculty-and-Staff/Finance-Food-Services-and-Facilities.md",
+      "section_id": "CMU-UG-2026-27-INST-PEOPLE-FINANCE-FOOD-SERVICES-AND-FACILITIES",
+      "characters": 3033
+    },
+    {
+      "title": "Institutes",
+      "file": "70-Institutional-Information/Faculty-and-Staff/Institutes.md",
+      "section_id": "CMU-UG-2026-27-INST-PEOPLE-INSTITUTES",
+      "characters": 934
+    },
+    {
+      "title": "Emeriti",
+      "file": "70-Institutional-Information/Faculty-and-Staff/Emeriti.md",
+      "section_id": "CMU-UG-2026-27-INST-PEOPLE-EMERITI",
+      "characters": 2934
+    }
+  ]
+}

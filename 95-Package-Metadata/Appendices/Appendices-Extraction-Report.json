@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "appendix_files": 3,
+    "manitoba_course_records": 193,
+    "provincial_requirement_records": 9,
+    "appendix_c_tables": 1,
+    "appendix_c_table_rows": 16,
+    "issues_logged": 0
+  },
+  "issues": [],
+  "method_notes": [
+    "Appendix A numbered course rows were parsed into individual records.",
+    "Appendix B was divided using exact province or territory headings found in the source.",
+    "Appendix C tables were preserved in Markdown and exported as ordered cell arrays with rowspan and colspan metadata. Semantic normalization should wait for validation against the PDF or DOCX."
+  ]
+}

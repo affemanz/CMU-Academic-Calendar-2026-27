@@ -1,0 +1,92 @@
+[
+  {
+    "record_type": "provincial_admission_requirement",
+    "calendar_year": "2026-27",
+    "province_or_territory_group": "Alberta/Northwest Territories/Nunavut",
+    "requirement_text": "",
+    "section_id": "CMU-UG-2026-27-APP-B-ALBERTA-NORTHWEST-TERRITORIES-NUNAVUT",
+    "source_file": "80-Appendices/Appendix-B-Provincial-Admission.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "provincial_admission_requirement",
+    "calendar_year": "2026-27",
+    "province_or_territory_group": "British Columbia/Yukon Territory",
+    "requirement_text": "",
+    "section_id": "CMU-UG-2026-27-APP-B-BRITISH-COLUMBIA-YUKON-TERRITORY",
+    "source_file": "80-Appendices/Appendix-B-Provincial-Admission.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "provincial_admission_requirement",
+    "calendar_year": "2026-27",
+    "province_or_territory_group": "New Brunswick",
+    "requirement_text": "",
+    "section_id": "CMU-UG-2026-27-APP-B-NEW-BRUNSWICK",
+    "source_file": "80-Appendices/Appendix-B-Provincial-Admission.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "provincial_admission_requirement",
+    "calendar_year": "2026-27",
+    "province_or_territory_group": "Newfoundland and Labrador",
+    "requirement_text": "",
+    "section_id": "CMU-UG-2026-27-APP-B-NEWFOUNDLAND-AND-LABRADOR",
+    "source_file": "80-Appendices/Appendix-B-Provincial-Admission.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "provincial_admission_requirement",
+    "calendar_year": "2026-27",
+    "province_or_territory_group": "Nova Scotia",
+    "requirement_text": "",
+    "section_id": "CMU-UG-2026-27-APP-B-NOVA-SCOTIA",
+    "source_file": "80-Appendices/Appendix-B-Provincial-Admission.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "provincial_admission_requirement",
+    "calendar_year": "2026-27",
+    "province_or_territory_group": "Ontario",
+    "requirement_text": "",
+    "section_id": "CMU-UG-2026-27-APP-B-ONTARIO",
+    "source_file": "80-Appendices/Appendix-B-Provincial-Admission.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "provincial_admission_requirement",
+    "calendar_year": "2026-27",
+    "province_or_territory_group": "Prince Edward Island",
+    "requirement_text": "",
+    "section_id": "CMU-UG-2026-27-APP-B-PRINCE-EDWARD-ISLAND",
+    "source_file": "80-Appendices/Appendix-B-Provincial-Admission.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "provincial_admission_requirement",
+    "calendar_year": "2026-27",
+    "province_or_territory_group": "Quebec",
+    "requirement_text": "",
+    "section_id": "CMU-UG-2026-27-APP-B-QUEBEC",
+    "source_file": "80-Appendices/Appendix-B-Provincial-Admission.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "provincial_admission_requirement",
+    "calendar_year": "2026-27",
+    "province_or_territory_group": "Saskatchewan",
+    "requirement_text": "",
+    "section_id": "CMU-UG-2026-27-APP-B-SASKATCHEWAN",
+    "source_file": "80-Appendices/Appendix-B-Provincial-Admission.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  }
+]

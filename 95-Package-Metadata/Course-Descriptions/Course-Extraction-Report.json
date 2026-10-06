@@ -1,0 +1,412 @@
+{
+  "summary": {
+    "subject_files": 31,
+    "parsed_course_records": 723,
+    "issues_logged": 79
+  },
+  "method_notes": [
+    "Course records were detected from paragraphs beginning with a course code and credit-hour expression.",
+    "Continuation paragraphs were appended to the preceding course record.",
+    "The complete source wording is retained in description_and_notes; parsed prerequisite and related fields are convenience fields pending validation."
+  ],
+  "issues": [
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BTS",
+      "text": "Biblical and Theological Studies invites students to disciplined, thoughtful reflection on the Bible, on the theological traditions and history of the church, and on the experiences and practices of Christian communities around the world. Students develop skills to apply biblical and theological wis"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BTS",
+      "text": "All degree programs require the completion of at least 6 credit hours of Biblical and Theological Studies. See the Common Curriculum Requirements section of this calendar. Students who wish to major in Biblical and Theological Studies may choose from the following options within a Bachelor of Arts p"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BTS",
+      "text": "· Four-year Honours"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BTS",
+      "text": "· Four-year"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BTS",
+      "text": "· Three-year"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BTS",
+      "text": "For details regarding the requirements of these programs, see the Academic Programs section of this calendar."
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BTS",
+      "text": "Categorization of courses in Biblical and Theological Studies"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BTS",
+      "text": "Each of the following courses may belong to at least one of the three categories:"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BTS",
+      "text": "· Bible"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BTS",
+      "text": "· Christian Traditions"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BTS",
+      "text": "· Practical Theology"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BIOL",
+      "text": "The major in Biology requires course work in specific subfields. The subfield categories are as follows:"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BIOL",
+      "text": "· Interdisciplinary Biology"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BIOL",
+      "text": "· Organismal Biology"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BIOL",
+      "text": "· Physiology"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BUSI",
+      "text": "Students may choose courses in business and organizational administration to fulfill requirements for general electives in any degree program. Students who wish to concentrate in this subject field may choose to complete the Bachelor of Business Administration, or they may choose a major or a minor "
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "BUSI",
+      "text": "Note: Due to changes in the accounting profession in Canada, the CA, CMA, and CGA are now Chartered Professional Accountant (CPA). For the current status of accreditation under the CPA, please contact Jerry Buckland, PhD in the Redekop School of Business."
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "COMM",
+      "text": "Studies in communications and media can prepare students for careers in journalism, marketing, or public relations. Students desiring to enhance their communication capacities and skills-base for future work, service, or study will also derive great benefit from studies in this field. Students will "
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "COMM",
+      "text": "Students may choose courses in communications and media to fulfill requirements for general electives in any degree program. Students who wish to concentrate in this subject field may choose a major or a minor in communications and media in either the four- or the three-year Bachelor of Arts. For de"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "ECON",
+      "text": "Economics is the inquiry into how societies organize themselves to provide for the material needs and wants of their members. Throughout most of human history, societies provided for the material needs of their members by hunting and gathering. The modern market economy is a relatively new developme"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "ECON",
+      "text": "Students may choose courses in economics to fulfill requirements for social sciences or general electives in any degree program. Students who wish to concentrate in this subject field may choose a minor in economics. For details regarding the requirements of a minor, see the Academic Programs sectio"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "ENGL",
+      "text": "Through the study of English literature, students learn to interpret texts, to communicate their interpretations effectively, and, in creative writing courses, to develop their own literary art. The study and creation of imaginative literature makes a unique contribution to the examined Christian li"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "ENGL",
+      "text": "Students may choose courses in English to fulfill requirements for humanities or general electives in any degree program. Students who wish to concentrate in this subject field may choose a major or a minor, either in the four- or the three-year Bachelor of Arts. For details regarding the requiremen"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "ENVS",
+      "text": "The Environmental Studies major at CMU equips students with interdisciplinary knowledge and skills to address pressing environmental challenges. Rooted in our Anabaptist tradition, the program spans natural sciences, social sciences, and humanities, emphasizing peace and justice in environmental con"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "ENVS",
+      "text": "This program prepares graduates for impactful careers in environmental policy, conservation, and sustainable development, fostering a deep understanding of the ecological and social dimensions of environmental issues. Graduates emerge ready to lead and serve in efforts toward ecological stewardship "
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "ENVS",
+      "text": "Students may choose courses in environmental studies to fulfill requirements for social sciences or general electives in any degree program. Students who wish to concentrate in this subject field may choose a major in environmental studies within the four-year Bachelor of Arts. For details regarding"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "GEOG",
+      "text": "The study of geography concerns physical and human processes and interactions on the earth’s surface. Physical geography asks where and why natural phenomena (such as weather, climate, soils, landforms, vegetation types) occur as they do. Human geography asks where and why human and cultural element"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "GEOG",
+      "text": "Students may choose courses in geography to fulfill requirements for social sciences or general electives in any degree program. Students who wish to concentrate in this subject field may choose either a major in geography within the three-year Bachelor of Arts, or they may choose a minor in geograp"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "HIST",
+      "text": "The study of history enables students to understand various movements and influences that throughout time have shaped and formed the world in which they live. It explores the influence of culture, religion, politics, economics, and other forces from the emergence of written texts to the present time"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "HIST",
+      "text": "Students may choose courses in history to fulfill requirements for humanities or general electives in any degree program. Students who wish to concentrate in this subject field may choose a major or a minor, either in the four- or the three-year Bachelor of Arts. For details regarding the requiremen"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "HIST",
+      "text": "The major in History requires course work in specific subfields. The subfield categories are as follows:"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "HIST",
+      "text": "· Canadian History"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "HIST",
+      "text": "· Mennonite/Anabaptist History"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "HIST",
+      "text": "· North American Indigenous History"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "HIST",
+      "text": "· Religious History"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "HIST",
+      "text": "· History outside Canada, United States, or Western Europe"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "HIST",
+      "text": "· History Before 1400"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "INDS",
+      "text": "INDS-1010 Native Peoples of Canada I This course introduces students to the Aboriginal Peoples of Canada by providing a survey of their political, social, economic, and cultural contexts and situations. Beginning with pre-contact times and cultural frameworks spanning Indigenous communities across N"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "INDS",
+      "text": "INDS-1020 Native Peoples of Canada II Continuation of INDS-1010. Cannot be held with INDS-1050."
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "IDS",
+      "text": "In this interdisciplinary field of inquiry, students will be challenged to explore the causes and consequences of processes that promote some individuals, communities, and nations, and exclude others. Moreover, students will be prepared for citizenship in an increasingly interdependent global commun"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "IDS",
+      "text": "Students may choose courses in International Development Studies to fulfill requirements for social sciences or general electives in any degree program. Students who wish to concentrate in this subject field may choose a major or a minor, either in the four-year or the three-year Bachelor of Arts. F"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "MATH",
+      "text": "Mathematics is the language of our technological world. It lies at the heart of scientific research, engineering, and computer science. A math degree can prepare students for a career in science, industry, business, or teaching. But the study of mathematics will also assist students in developing sk"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "MATH",
+      "text": "Students may choose courses in mathematics to fulfill requirements for sciences or general electives in any degree program. Students who wish to concentrate in this subject field may choose a major or a minor, either in the four-year or the three-year Bachelor of Arts. For details regarding the requ"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "MUSC",
+      "text": "Music studies consist of the discipline and art of music-making along with exploration of how music serves human needs for constructive imagination, beauty, worship, and reconciliation. In addition to Individual Music Lessons (IML) and academic music courses, CMU music studies include participation "
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "MUSC",
+      "text": "Students may choose courses in music to fulfill requirements for general electives in any degree program. Music courses, other than applied or ensemble courses, may also be used toward subject area requirements. Students who wish to concentrate on Music may choose from the following program options:"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "MUSC",
+      "text": "Bachelor of Music (Four-year)"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "MUSC",
+      "text": "Bachelor of Music Therapy (Four-year)"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "MUSC",
+      "text": "Bachelor of Arts (Major in Music, Four-year)"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "MUSC",
+      "text": "Bachelor of Arts (Major in Music, Three-year)"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "MUSC",
+      "text": "For details regarding the requirements of these programs, see the Academic Programs section of this calendar."
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "MUSC",
+      "text": "Notes:"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "MUSC",
+      "text": "1. Since many of the following courses assume a basic knowledge of music, the prerequisite is often expressed as ‘successful theory placement test’. Students may demonstrate that they meet the prerequisite by passing the theory placement test during their application process or during the registrati"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "MUSC",
+      "text": "2. All new students planning to register in Individual Music Lessons (IML), whether as a minor or a major, must complete an auditioning process. Auditions occur during the spring preceding entry to studies at CMU as well as during the registration period and will require students to perform a minimu"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "MUSC",
+      "text": "4. Music ensembles include the following: MUSC-X700 , X701, X702, X711, X720, X730, X740, X750, X753, X755, X760, X770, X131, X132, and X160."
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "MUSC",
+      "text": "5. Applied music courses include the following: MUSC-14XY-16XY to 44XY-46XY Individual Music Lessons (IML), MUSC-2840, 2850, 2860, 3070, 3170, 3860, 3890, 4170, and 4180."
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "PCTS",
+      "text": "In this interdisciplinary field, students will gain an understanding of the nature and dynamics of human conflict and will consider alternative ways of dealing with conflict that develop healthy relationships and prevent violence. Conflicts, from interpersonal to international, are analyzed from an "
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "PCTS",
+      "text": "Students may choose courses in Peace and Conflict Transformation Studies to fulfill requirements for social sciences or general electives in any degree program. Students who wish to concentrate in this subject field may choose a major or a minor, either in the four-year or the three-year Bachelor of"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "PHIL",
+      "text": "Philosophy, in its traditional sense, is understood as the love of wisdom. In its modern form, philosophy is a search for general theoretical explanations in an attempt to answer certain basic questions: what is real? (metaphysics); what can I know? (epistemology); what should I do? (ethics). Philos"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "PHIL",
+      "text": "Students may choose courses in Philosophy to fulfill requirements for humanities or general electives in any degree program. Students who wish to concentrate in this subject field may choose a major or a minor, either in the four-year or the three-year Bachelor of Arts. For details regarding the req"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "POLS",
+      "text": "At CMU, exploring political studies means investigating the systems and institutions that shape our world, and how people work within and against them to create change. You'll think critically about who holds power, how decisions are made, and what alternatives are possible."
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "POLS",
+      "text": "You'll examine how ideas, history, and structures shape people's lives — learning to analyze political institutions, talk across differences, and connect your studies to the issues that matter most to you. Whether you're interested in government, advocacy, law, or simply want to understand politics "
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "POLS",
+      "text": "Students may choose courses in Political Studies to fulfill requirements for social sciences or general electives in any degree program. Students who wish to concentrate in this subject field may choose a major or a minor, either in the four-year or the three-year Bachelor of Arts. For details regar"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "POLS",
+      "text": "The major in Political Studies requires course work in specific subfields. The subfield categories are as follows:"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "POLS",
+      "text": "· World Politics"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "POLS",
+      "text": "· Comparative Politics of the South"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "POLS",
+      "text": "· Comparative Politics of the North"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "POLS",
+      "text": "· Gender and Identity Politics"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "POLS",
+      "text": "· Political Theory and Methodology"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "PSYC",
+      "text": "Students of Psychology are invited to explore many facets of human experience, from development, learning, and memory to social interactions and the physiological underpinnings of these phenomena. Study in Psychology offers a more thorough understanding of oneself and others. At CMU, the Psychology "
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "PSYC",
+      "text": "Students may choose courses in Psychology to fulfill requirements for social sciences or general electives in any degree program. Students who wish to concentrate in this subject field may choose a major or a minor, either in the four-year or the three-year Bachelor of Arts. For details regarding th"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "PSYC",
+      "text": "The major in Psychology requires course work in specific subfields. The subfield categories are as follows:"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "PSYC",
+      "text": "· Brain and Cognition"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "PSYC",
+      "text": "· Social Processes"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "PSYC",
+      "text": "· Developmental"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "PSYC",
+      "text": "· Health Psychology"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "SOCI",
+      "text": "Sociology is the systematic study of human society. Topics covered include culture, socialization, groups and organizations, social processes, community, social stratification, social change, and major institutions such as religious, economic, educational, or health care institutions, and the family"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "SOCI",
+      "text": "A major in Sociology will prepare students for careers in areas such as social welfare, criminal justice, government, research, industrial relations, and administration. Students may choose courses in Sociology to fulfill requirements for social sciences or general electives in any degree program. S"
+    },
+    {
+      "type": "unassigned_text_before_first_course",
+      "subject_code": "WIL",
+      "text": "Work-Integrated Learning (WIL) is a supervised, structured, experience-based learning opportunity that involves the student in action, reflection, and response. CMU offers two types of WIL courses. Courses of the first type (WIL-3000, WIL-3005) are scheduled alongside other courses during the academ"
+    },
+    {
+      "type": "duplicate_or_cross_listed_course_code",
+      "course_code": "MUSC-1120",
+      "occurrences": 2,
+      "subjects": [
+        "MUSC"
+      ]
+    }
+  ]
+}

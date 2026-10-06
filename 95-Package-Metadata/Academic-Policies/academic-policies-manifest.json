@@ -1,0 +1,119 @@
+{
+  "package_name": "CMU Academic Calendar 2026-27 Academic Policies",
+  "package_version": "0.5",
+  "created": "2026-09-29",
+  "source": {
+    "filename": "2026-27 Academic Calendar.Undergraduate.htm",
+    "sha256": "b799c4fb74003720ebe8307487f242c0e42a7743c2e5662d26b169bbcdba1548"
+  },
+  "authority_status": "official_transcription",
+  "validation_status": "pending",
+  "policy_file_count": 13,
+  "structured_subsection_count": 151,
+  "files": [
+    {
+      "title": "Registration",
+      "file": "50-Academic-Policies/Registration.md",
+      "section_id": "CMU-UG-2026-27-POL-REG",
+      "section_type": "academic_policy",
+      "characters": 5634,
+      "headings": 11
+    },
+    {
+      "title": "Transfer",
+      "file": "50-Academic-Policies/Transfer-Credit-and-Recognition.md",
+      "section_id": "CMU-UG-2026-27-POL-TRANSFER",
+      "section_type": "academic_policy",
+      "characters": 4732,
+      "headings": 5
+    },
+    {
+      "title": "Courses and Their Requirements",
+      "file": "50-Academic-Policies/Courses-and-Requirements.md",
+      "section_id": "CMU-UG-2026-27-POL-COURSES",
+      "section_type": "academic_policy",
+      "characters": 19945,
+      "headings": 16
+    },
+    {
+      "title": "Grades and Grading",
+      "file": "50-Academic-Policies/Grades-and-Grading.md",
+      "section_id": "CMU-UG-2026-27-POL-GRADES",
+      "section_type": "academic_policy",
+      "characters": 6056,
+      "headings": 6
+    },
+    {
+      "title": "Academic Performance",
+      "file": "50-Academic-Policies/Academic-Performance.md",
+      "section_id": "CMU-UG-2026-27-POL-PERFORMANCE",
+      "section_type": "academic_policy",
+      "characters": 8442,
+      "headings": 4
+    },
+    {
+      "title": "Students with Disability",
+      "file": "50-Academic-Policies/Students-with-Disability.md",
+      "section_id": "CMU-UG-2026-27-POL-DISABILITY",
+      "section_type": "academic_policy",
+      "characters": 3297,
+      "headings": 1
+    },
+    {
+      "title": "Experiential Learning",
+      "file": "50-Academic-Policies/Experiential-Learning.md",
+      "section_id": "CMU-UG-2026-27-POL-EXPERIENTIAL",
+      "section_type": "academic_policy",
+      "characters": 5805,
+      "headings": 2
+    },
+    {
+      "title": "Academic Integrity",
+      "file": "50-Academic-Policies/Academic-Integrity.md",
+      "section_id": "CMU-UG-2026-27-POL-INTEGRITY",
+      "section_type": "academic_policy",
+      "characters": 28226,
+      "headings": 15
+    },
+    {
+      "title": "Appeals",
+      "file": "50-Academic-Policies/Appeals.md",
+      "section_id": "CMU-UG-2026-27-POL-APPEALS",
+      "section_type": "academic_policy",
+      "characters": 7164,
+      "headings": 6
+    },
+    {
+      "title": "Graduation",
+      "file": "50-Academic-Policies/Graduation.md",
+      "section_id": "CMU-UG-2026-27-POL-GRADUATION",
+      "section_type": "academic_policy",
+      "characters": 6783,
+      "headings": 6
+    },
+    {
+      "title": "Bachelor of Education Policies",
+      "file": "50-Academic-Policies/Degree-Specific-Policies/Bachelor-of-Education-Policies.md",
+      "section_id": "CMU-UG-2026-27-POL-BED",
+      "section_type": "degree_specific_policy",
+      "characters": 40218,
+      "headings": 39
+    },
+    {
+      "title": "Bachelor of Music Therapy Policies",
+      "file": "50-Academic-Policies/Degree-Specific-Policies/Bachelor-of-Music-Therapy-Policies.md",
+      "section_id": "CMU-UG-2026-27-POL-BMT",
+      "section_type": "degree_specific_policy",
+      "characters": 41612,
+      "headings": 43
+    },
+    {
+      "title": "Bachelor of Social Work Policies",
+      "file": "50-Academic-Policies/Degree-Specific-Policies/Bachelor-of-Social-Work-Policies.md",
+      "section_id": "CMU-UG-2026-27-POL-BSW",
+      "section_type": "degree_specific_policy",
+      "characters": 45973,
+      "headings": 13
+    }
+  ]
+}

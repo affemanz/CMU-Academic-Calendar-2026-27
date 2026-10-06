@@ -1,0 +1,42 @@
+{
+  "package_name": "CMU Academic Calendar 2026-27 Appendices",
+  "package_version": "0.6",
+  "created": "2026-09-29",
+  "source": {
+    "filename": "2026-27 Academic Calendar.Undergraduate.htm",
+    "sha256": "b799c4fb74003720ebe8307487f242c0e42a7743c2e5662d26b169bbcdba1548"
+  },
+  "authority_status": "official_transcription",
+  "validation_status": "pending",
+  "files": [
+    {
+      "title": "Appendix A: Manitoba Grade 12 Academic Course List",
+      "file": "80-Appendices/Appendix-A-Manitoba-Grade-12-Courses.md",
+      "section_id": "CMU-UG-2026-27-APP-A",
+      "characters": 7117,
+      "headings": 4
+    },
+    {
+      "title": "Appendix B: Province-Specific Admission Requirements",
+      "file": "80-Appendices/Appendix-B-Provincial-Admission.md",
+      "section_id": "CMU-UG-2026-27-APP-B",
+      "characters": 3466,
+      "headings": 2
+    },
+    {
+      "title": "Appendix C: High School Course Requirements for Admission to Specific Degrees/Majors",
+      "file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+      "section_id": "CMU-UG-2026-27-APP-C",
+      "characters": 3517,
+      "headings": 1
+    }
+  ],
+  "structured_counts": {
+    "appendix_files": 3,
+    "manitoba_course_records": 193,
+    "provincial_requirement_records": 9,
+    "appendix_c_tables": 1,
+    "appendix_c_table_rows": 16,
+    "issues_logged": 0
+  }
+}

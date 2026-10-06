@@ -1,0 +1,71 @@
+{
+  "package_name": "CMU Academic Calendar 2026-27 Financial Aid and Awards",
+  "package_version": "0.7",
+  "created": "2026-09-29",
+  "source": {
+    "filename": "2026-27 Academic Calendar.Undergraduate.htm",
+    "sha256": "b799c4fb74003720ebe8307487f242c0e42a7743c2e5662d26b169bbcdba1548"
+  },
+  "authority_status": "official_transcription",
+  "validation_status": "pending",
+  "content_file_count": 7,
+  "structured_subsection_count": 29,
+  "files": [
+    {
+      "title": "Financial Aid and Awards Overview",
+      "file": "60-Financial-Aid-and-Awards/00-Financial-Aid-Overview.md",
+      "section_id": "CMU-UG-2026-27-AID-OVERVIEW",
+      "section_type": "financial_aid_overview",
+      "characters": 1820,
+      "headings": 1
+    },
+    {
+      "title": "Scholarships",
+      "file": "60-Financial-Aid-and-Awards/Scholarships.md",
+      "section_id": "CMU-UG-2026-27-AID-SCHOLARSHIPS",
+      "section_type": "scholarships",
+      "characters": 22578,
+      "headings": 20
+    },
+    {
+      "title": "Bursaries",
+      "file": "60-Financial-Aid-and-Awards/Bursaries.md",
+      "section_id": "CMU-UG-2026-27-AID-BURSARIES",
+      "section_type": "bursaries",
+      "characters": 3869,
+      "headings": 3
+    },
+    {
+      "title": "Faith Community Matching Grants",
+      "file": "60-Financial-Aid-and-Awards/Faith-Community-Matching-Grants.md",
+      "section_id": "CMU-UG-2026-27-AID-FAITH-GRANTS",
+      "section_type": "grants",
+      "characters": 2216,
+      "headings": 1
+    },
+    {
+      "title": "Camp Wage Subsidy",
+      "file": "60-Financial-Aid-and-Awards/Camp-Wage-Subsidy.md",
+      "section_id": "CMU-UG-2026-27-AID-CAMP-SUBSIDY",
+      "section_type": "subsidy",
+      "characters": 1953,
+      "headings": 2
+    },
+    {
+      "title": "Employment on Campus",
+      "file": "60-Financial-Aid-and-Awards/Employment-on-Campus.md",
+      "section_id": "CMU-UG-2026-27-AID-EMPLOYMENT",
+      "section_type": "employment",
+      "characters": 1736,
+      "headings": 2
+    },
+    {
+      "title": "Federal and Provincial Student Aid",
+      "file": "60-Financial-Aid-and-Awards/Federal-and-Provincial-Student-Aid.md",
+      "section_id": "CMU-UG-2026-27-AID-GOVERNMENT",
+      "section_type": "government_student_aid",
+      "characters": 1190,
+      "headings": 2
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+[
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 1,
+    "cells": [
+      {
+        "text": "Major",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Biology 40S",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Chemistry 40S",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Applied Math 40S",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Pre-Calculus Math 40S",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Physics 40S",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Admission Requirements",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R1",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 2,
+    "cells": [
+      {
+        "text": "Applied Mathematics, Arts and Sciences Major (BA, Four-year)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Pre-Calculus Math",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R2",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 3,
+    "cells": [
+      {
+        "text": "Biochemistry , Arts and Sciences Major (BA, Four-year)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Biology, Chemistry, and one of: Pre-Calculus Math or Physics",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R3",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 4,
+    "cells": [
+      {
+        "text": "Biology , Arts and Sciences Major (BA, Four-year)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Biology, Chemistry, and one of: Applied Math or Pre-Calculus Math",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R4",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 5,
+    "cells": [
+      {
+        "text": "Ecology , Arts and Sciences Major (BA, Four-year)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Biology, Chemistry, and one of: Applied Math or Pre-Calculus Math",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R5",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 6,
+    "cells": [
+      {
+        "text": "Mathematics , Arts and Sciences Major (BA, Four-year)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Pre-Calculus Math",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R6",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 7,
+    "cells": [
+      {
+        "text": "Business and Organizational Administration Major (BA, Four-year)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "One of: Applied Math or Pre-Calculus Math",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R7",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 8,
+    "cells": [
+      {
+        "text": "Environmental Studies Major (BA, Four-year)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Biology, Chemistry, and one of: Applied Math or Pre-Calculus Math",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R8",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 9,
+    "cells": [
+      {
+        "text": "Mathematics Major (BA, Four-year)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Pre-Calculus Math and Physics",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R9",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 10,
+    "cells": [
+      {
+        "text": "Business and Organizational Administration Major (BA, Three-year)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "One of: Applied Math or Pre-Calculus Math",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R10",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 11,
+    "cells": [
+      {
+        "text": "Mathematics Major (BA, Three-year)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Pre-Calculus Math",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R11",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 12,
+    "cells": [
+      {
+        "text": "Bachelor of Business Administration (BBA)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Pre-Calculus Math",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R12",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 13,
+    "cells": [
+      {
+        "text": "Biology Major (BSc Four-year)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔ (min 70%)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Biology and two of: Chemistry, Pre-Calculus Math, Physics",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R13",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 14,
+    "cells": [
+      {
+        "text": "Mathematics Major (BSc Four-year)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔ (min 70%)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔ (min 70%)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Pre-Calculus Math, Physics 40S, and one of: Biology, Chemistry",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R14",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 15,
+    "cells": [
+      {
+        "text": "General Major (BSc Three-year)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔ (min 70%)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔ (min 70%)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔ (min 70%)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔ (min 70%)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔ (min 70%)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Three of: Biology, Chemistry, Applied Math or Pre-Calculus Math, Physics",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R15",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  },
+  {
+    "record_type": "program_prerequisite_table_row",
+    "calendar_year": "2026-27",
+    "table_number": 1,
+    "row_number": 16,
+    "cells": [
+      {
+        "text": "Mathematics Major (BSc Three-year)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔ (min 70%)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "✔ (min 70%)",
+        "rowspan": 1,
+        "colspan": 1
+      },
+      {
+        "text": "Pre-Calculus Math, Physics, and one of: Biology or Chemistry",
+        "rowspan": 1,
+        "colspan": 1
+      }
+    ],
+    "section_id": "CMU-UG-2026-27-APP-C-T1-R16",
+    "source_file": "80-Appendices/Appendix-C-Program-Prerequisites.md",
+    "authority_status": "official_transcription",
+    "validation_status": "pending"
+  }
+]
